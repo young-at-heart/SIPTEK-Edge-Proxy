@@ -10,6 +10,7 @@ To install siptek-edge-proxy (only on debian 12)
 9. #reboot
 
 To use siptek-edge-proxy
+
 IP-PBX ----- siptek-edge-proxy ----- internet router ----- the internet
 
 1. internal nic of siptek-edge-proxy connects to IP-PBX (Asterisk, FreeSWITCH, etc.)
