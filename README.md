@@ -1,13 +1,14 @@
 To install siptek-edge-proxy (only on debian 12)
-1. intstall debian 12 minimal (select only standard system utilities) 
-2. #apt install git
-3. #git clone https://github.com/young-at-heart/siptek-edge-proxy.git
-4. #cd siptek-edge-proxy
-5. #chmod 744 install.py
-6. #./install.py
-7. #chmod 744 setup.py 
-8. #./setup.py
-9. #reboot
+1. intstall debian 12 minimal (select only SSH server and standard system utilities)
+2. login as root 
+3. #apt install git
+4. #git clone https://github.com/young-at-heart/siptek-edge-proxy.git
+5. #cd siptek-edge-proxy
+6. #chmod 744 install.py
+7. #./install.py
+8. #chmod 744 setup.py 
+9. #./setup.py
+10. #reboot
 
 To use siptek-edge-proxy
 
